@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://cdn.mos.cms.futurecdn.net/ASHH5bDmsp6wnK6mEfZdcU.jpg");
+    background-size: contain;
+    font-family: Roboto, 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vmax
+}
+
+h1 {
+    color: darkcyan;
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
+
+h2 {
+    color: white;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    padding: 5px;
+    border-width: 10px;
+    background: orange;
+}
+
+#save-btn {
+    background: greenyellow;
+}
+p {
+    color: white
+}
+
